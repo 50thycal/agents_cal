@@ -25,5 +25,14 @@
     "status": "Active",
     "planned_work_day": "Wednesday",
     "category": "Projects"
+  },
+  {
+    "id": 4,
+    "name": "Follow up with Kennedy on Placid project budget",
+    "notes": "Set project budget",
+    "date_added": "2025-07-30",
+    "status": "Active",
+    "planned_work_day": "Friday",
+    "category": "Project Management"
   }
 ]
