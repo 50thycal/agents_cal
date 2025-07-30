@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Update Heinz project budget",
+    "notes": "Review Q4 expenses and adjust forecast",
+    "date_added": "2025-07-30",
+    "status": "Active",
+    "planned_work_day": "Thursday",
+    "category": "Project Management"
+  },
+  {
+    "id": 2,
+    "name": "Schedule 1:1 with Isaiah",
+    "notes": "Weekly check-in meeting",
+    "date_added": "2025-07-30",
+    "status": "Active",
+    "planned_work_day": "Filler",
+    "category": "General"
+  },
+  {
+    "id": 3,
+    "name": "Send FiberPoint list to Thistle client",
+    "notes": "Include updated pricing and delivery timeline",
+    "date_added": "2025-07-30",
+    "status": "Active",
+    "planned_work_day": "Wednesday",
+    "category": "Projects"
+  }
+]
