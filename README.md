@@ -1,4 +1,19 @@
-# Contains Studio AI Agents
+# Cal's AI-Powered Workspace
+
+## 🎯 Task Tracker (Primary)
+
+**Smart task management system integrated with Cursor AI**
+
+- **Just chat**: "Add a task to review budget on Thursday"
+- **AI organizes**: Automatically categorizes and schedules tasks
+- **Mobile ready**: Works on iPhone via Cursor web app
+- **GitHub synced**: All data backed up automatically
+
+📚 **[Get Started → `task_tracker/HOW_TO_USE.md`](task_tracker/HOW_TO_USE.md)**
+
+---
+
+## 🤖 Development Agents (Secondary)
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
@@ -35,52 +50,22 @@ Agents are automatically available in Claude Code. Simply describe your task and
 Agents are organized by department for easy discovery:
 
 ```
-contains-studio-agents/
-├── design/
-│   ├── brand-guardian.md
-│   ├── ui-designer.md
-│   ├── ux-researcher.md
-│   ├── visual-storyteller.md
-│   └── whimsy-injector.md
-├── engineering/
-│   ├── ai-engineer.md
-│   ├── backend-architect.md
-│   ├── devops-automator.md
-│   ├── frontend-developer.md
-│   ├── mobile-app-builder.md
-│   ├── rapid-prototyper.md
-│   └── test-writer-fixer.md
-├── marketing/
-│   ├── app-store-optimizer.md
-│   ├── content-creator.md
-│   ├── growth-hacker.md
-│   ├── instagram-curator.md
-│   ├── reddit-community-builder.md
-│   ├── tiktok-strategist.md
-│   └── twitter-engager.md
-├── product/
-│   ├── feedback-synthesizer.md
-│   ├── sprint-prioritizer.md
-│   └── trend-researcher.md
-├── project-management/
-│   ├── experiment-tracker.md
-│   ├── project-shipper.md
-│   └── studio-producer.md
-├── studio-operations/
-│   ├── analytics-reporter.md
-│   ├── finance-tracker.md
-│   ├── infrastructure-maintainer.md
-│   ├── legal-compliance-checker.md
-│   └── support-responder.md
-├── testing/
-│   ├── api-tester.md
-│   ├── performance-benchmarker.md
-│   ├── test-results-analyzer.md
-│   ├── tool-evaluator.md
-│   └── workflow-optimizer.md
-└── bonus/
-    ├── joker.md
-    └── studio-coach.md
+agents_cal/
+├── task_tracker/              # 🎯 PRIMARY: AI-powered task management
+│   ├── HOW_TO_USE.md         # Simple user guide
+│   ├── config/               # AI organization rules
+│   ├── data/                 # Your tasks (JSON files)
+│   ├── src/                  # Helper functions
+│   └── examples/             # Usage examples
+└── agents_library/           # 🤖 SECONDARY: Development agents
+    ├── design/               # UI/UX and visual agents
+    ├── engineering/          # Development and technical agents
+    ├── marketing/            # Growth and content agents
+    ├── product/              # Strategy and research agents
+    ├── project-management/   # Team coordination agents
+    ├── studio-operations/    # Business and ops agents
+    ├── testing/              # QA and performance agents
+    └── bonus/                # Fun and coaching agents
 ```
 
 ## 📋 Complete Agent List
